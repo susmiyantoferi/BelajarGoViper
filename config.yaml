@@ -1,0 +1,10 @@
+
+  application:
+      name: "Feri Susmiyanto"
+      umur : 20
+      hobi : "Belajar coding"
+      menikah : false
+
+  family :
+      ayah : "suyono"
+      ibu : "mariyam"
